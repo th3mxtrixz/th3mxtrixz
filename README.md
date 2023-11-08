@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @th3mxtrixz
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning HTML, CSS & Javascript as a Web Developer on RTS in Denmark.
+- 🌱 I’m currently learning HTML, CSS & Javascript as a Web Developer at RTS in Denmark.
 - 📫 How to reach me? You can contact me here, and I can give you an email, phone number, or a social media to contact me on.
 
 <!---
